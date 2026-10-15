@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/From%20Scratch-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)](https://numpy.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-Version%20Not%20Executed-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)](https://pytorch.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-Cora-7C5CFC?style=for-the-badge)](https://github.com/kimiyoung/planetoid)
 [![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)](https://github.com/features/actions)
 
