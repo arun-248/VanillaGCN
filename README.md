@@ -12,9 +12,6 @@
 **Derive · Implement · Verify · Evaluate**
 
 <a href="https://github.com/arun-248/VanillaGCN"><strong>📂 Source Code</strong></a>
-·
-<a href="docs/GCN_Two_and_Three_Layer_Assignment.pdf"><strong>📄 Assignment Document</strong></a>
-
 </div>
 
 ---
@@ -236,15 +233,6 @@ VanillaGCN/
 
 ---
 
-## 📚 Documentation
-
-| Document | Pages | Content |
-|---|---:|---|
-| [`GCN_Two_and_Three_Layer_Assignment.pdf`](docs/GCN_Two_and_Three_Layer_Assignment.pdf) | 27 | Assignment document: two-layer + three-layer |
-| [`GCN_Assignment_Report.pdf`](docs/GCN_Assignment_Report.pdf) | 16 | Three-layer report (Phases 1–3) |
-| [`Two_Layer_GCN_and_Codes.pdf`](docs/Two_Layer_GCN_and_Codes.pdf) | 25 | Two-layer chapter with all codes and outputs |
-
----
 
 ## ⚖️ Limitations
 
